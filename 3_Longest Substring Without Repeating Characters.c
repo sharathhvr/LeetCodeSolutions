@@ -1,3 +1,5 @@
+/*Works for all test cases on Code Blocks,but doesn't work for test case "bbbbb" on Leet Code. */
+
 void clearBuffer(char* buffer);
 int lengthOfLongestSubstring(char * s)
 {
